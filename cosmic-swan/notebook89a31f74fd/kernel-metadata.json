@@ -1,0 +1,19 @@
+{
+  "id": "urajkaushik/notebook89a31f74fd",
+  "id_no": 138675463,
+  "title": "notebook89a31f74fd",
+  "code_file": "notebook89a31f74fd.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": [],
+  "docker_image": "",
+  "machine_shape": "None"
+}
