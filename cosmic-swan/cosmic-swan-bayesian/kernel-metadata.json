@@ -1,0 +1,24 @@
+{
+  "id": "urajkaushik/cosmic-swan-bayesian",
+  "id_no": 138847801,
+  "title": "Cosmic swan Bayesian",
+  "code_file": "cosmic-swan-bayesian.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "urajkaushik/cosmic-swan-4",
+    "urajkaushik/cosmic-20000-swan-v2"
+  ],
+  "competition_sources": [],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-private-byod/python@sha256:2757e0c7d1e0a9cb43da657b97e223c321a98f5014bdf64f44f2f6b083ad2b2f",
+  "machine_shape": "NvidiaTeslaT4"
+}
