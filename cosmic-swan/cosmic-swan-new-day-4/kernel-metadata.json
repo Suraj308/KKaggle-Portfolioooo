@@ -1,0 +1,24 @@
+{
+  "id": "urajkaushik/cosmic-swan-new-day-4",
+  "id_no": 140365252,
+  "title": "Cosmic Swan New Day 4",
+  "code_file": "cosmic-swan-new-day-4.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "urajkaushik/cosmic-swan-bayesian",
+    "urajkaushik/cosmic-swan-new-day-3"
+  ],
+  "competition_sources": [],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-private-byod/python@sha256:9a6bcfda6d03b2cd9aa347ee8c1bae62043328ed0f4afe9bda014e4f8bbf9435",
+  "machine_shape": "NvidiaTeslaT4"
+}
