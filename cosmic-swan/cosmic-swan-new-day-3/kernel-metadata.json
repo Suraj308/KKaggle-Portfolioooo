@@ -1,0 +1,23 @@
+{
+  "id": "urajkaushik/cosmic-swan-new-day-3",
+  "id_no": 140358707,
+  "title": "Cosmic Swan New Day 3",
+  "code_file": "cosmic-swan-new-day-3.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "urajkaushik/cosmic-swan-bayesian",
+    "urajkaushik/csomic-swan-case-binary-3",
+    "urajkaushik/cosmic-swan-new-day-2"
+  ],
+  "competition_sources": [],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-images/python@sha256:17b2fc7f27c25c6c2fd4230ec8e66097ab2b89fc88e1e4d6f338b72e1ee0bc3e",
+  "machine_shape": "None"
+}
