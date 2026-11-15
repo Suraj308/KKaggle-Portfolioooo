@@ -1,0 +1,23 @@
+{
+  "id": "urajkaushik/cosmic-swan-finale-3",
+  "id_no": 145166135,
+  "title": "Cosmic Swan Finale 3",
+  "code_file": "cosmic-swan-finale-3.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "urajkaushik/cosmic-swan-4",
+    "urajkaushik/cosmic-swan-new-day-10",
+    "urajkaushik/cosmic-swan-ml-day1"
+  ],
+  "competition_sources": [],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-images/python@sha256:0717e81990be591f8c5f98f033d29ab23e9ffde057e5b3a6bd4371f93969e962",
+  "machine_shape": "None"
+}
